@@ -1,15 +1,15 @@
 [
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 4449,
-    "open_issues_count": 41,
-    "forks_count": 334
+    "stargazers_count": 4484,
+    "open_issues_count": 45,
+    "forks_count": 336
   },
   {
     "full_name": "jlooper/Presentations",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "pauljstales/Pauls-Productivity-Tips",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "mgp/book-notes",
-    "stargazers_count": 2880,
+    "stargazers_count": 2882,
     "open_issues_count": 6,
     "forks_count": 592
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 55318,
-    "open_issues_count": 17,
-    "forks_count": 6112
+    "stargazers_count": 55404,
+    "open_issues_count": 16,
+    "forks_count": 6117
   },
   {
     "full_name": "LodenH16/GitHub-Billboard",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 5794,
-    "open_issues_count": 203,
-    "forks_count": 10706
+    "stargazers_count": 5799,
+    "open_issues_count": 204,
+    "forks_count": 10716
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 21656,
-    "open_issues_count": 324,
-    "forks_count": 1688
+    "stargazers_count": 22168,
+    "open_issues_count": 312,
+    "forks_count": 1698
   },
   {
     "full_name": "sdras/career-ladders",
@@ -79,33 +79,33 @@
   },
   {
     "full_name": "lubkoKuzenko/angular-clean-code",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 67651,
+    "stargazers_count": 67739,
     "open_issues_count": 58,
-    "forks_count": 9004
+    "forks_count": 9021
   },
   {
     "full_name": "summitech/gitexplorer",
-    "stargazers_count": 1408,
+    "stargazers_count": 1410,
     "open_issues_count": 36,
     "forks_count": 134
   },
   {
     "full_name": "Couchers-org/couchers",
     "stargazers_count": 239,
-    "open_issues_count": 205,
+    "open_issues_count": 206,
     "forks_count": 71
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 194763,
-    "open_issues_count": 133,
-    "forks_count": 28039
+    "stargazers_count": 195019,
+    "open_issues_count": 136,
+    "forks_count": 28076
   },
   {
     "full_name": "jackdomleo7/Checka11y.css",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 33329,
-    "open_issues_count": 265,
-    "forks_count": 1925
+    "stargazers_count": 33455,
+    "open_issues_count": 260,
+    "forks_count": 1941
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16309,
+    "stargazers_count": 16350,
     "open_issues_count": 118,
-    "forks_count": 681
+    "forks_count": 679
   },
   {
     "full_name": "Leniolabs/layoutit-grid",
-    "stargazers_count": 1199,
+    "stargazers_count": 1201,
     "open_issues_count": 12,
-    "forks_count": 130
+    "forks_count": 132
   },
   {
     "full_name": "demihe/HTML5-Canvas-Paint-Application",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "fishfight/FishFight",
-    "stargazers_count": 575,
+    "stargazers_count": 577,
     "open_issues_count": 55,
     "forks_count": 55
   }
